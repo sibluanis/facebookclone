@@ -1,0 +1,185 @@
+body{
+	margin:0;
+	padding: 0;
+	    width: 906px
+}
+
+#backgroundimage{
+	background: linear-gradient(to top, #dce3ec 0%,#e0e0ef 23%,#fffafa 66%);
+	height: 675px;
+	    width: 149%
+}
+
+#container{
+	background: #45619d;
+	border-bottom: 1px solid #0053A6;
+	box-shadow: 0 0 2px rgba(0,0,0,52);
+	width: 100%
+	z-index:1000;
+}
+
+#header{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1000px;
+	height: 83px;
+	display: block;
+}
+
+#logo{
+	color: white;
+	font-size: 40px;
+	line-height: 30px;
+	font-family: Facebook Letter Faces;
+	position: relative;
+	left: 8px;
+	top: 35px;
+
+
+}
+
+.loginform{
+	float: right;
+	color: white;
+	position: relative;
+	right: 0px;
+	top: -15px;
+	font-family: 'Helvetica neue',Helvetica,Arial,sans-serif;
+	font-size: 12px;
+
+}
+
+.fbbutton{
+	border:0 solid #1D3871;
+	background-image: -webkit-linear-gradient(top, #637BAD, #4F67A4);
+	color: #fff;
+
+}
+.forgotlink{
+	color: #cccccc;
+
+}
+#bodycontainer{
+	width: 1000px;
+	margin: auto;
+	position: relative;
+}
+#status{
+	position: relative;
+	font-weight: bold;
+	font-family: 'Helvetica neue',Helvetica,Arial,sans-serif;
+	font-size: 20px;
+	color: #000066;
+	top: 20px;
+	left: 8px;
+
+
+}
+
+#image{
+	z-index: 4;
+	position: relative;
+	top: 26px;
+	left: 8px;
+}
+
+#right{
+	z-index: 6;
+	float: right;
+	position: relative;
+	top: -300px;
+	right: 30px;
+}
+
+#create{
+	font-size: 36px;
+	font-weight: bold;
+	font-family: 'Helvetica neue',Helvetica,Arial,sans-serif;
+	margin-bottom: 8px;
+
+}
+
+#free{
+	font-size: 18px;
+	margin-top: 0px;
+	font-family: 'Helvetica neue',Helvetica,Arial,sans-serif;
+
+}
+
+#signup input{
+   border:1px solid #BDC7D8;
+   border-radius:5px;
+   color: black;
+   padding: 10px;
+}
+
+#signup select{
+	height: 30px;
+	display: inline;
+
+}
+
+a.dob{
+	 font-size: 11px;
+	 font-family: 'Helvetica neue',Helvetica,Arial,sans-serif;
+	 width:10px;
+	 text-decoration: none;
+}
+
+#term{
+	font-size: 11px;
+	color: grey;
+	font-family: 'Helvetica neue',Helvetica,Arial,sans-serif;
+}
+
+
+.mybutton {
+    box-shadow: inset 0px 1px 0px 0px #9acc85;
+    background: linear-gradient(to bottom, #74ad5a 5%, #68ad5a 100%);
+    background-color: #74ad5a;
+    border-radius: 5px;
+    border: 1px solid #3b6e22;
+    display: inline-block;
+    cursor: pointer;
+    color: #fff;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px 12px;
+    text-decoration: none;
+}
+
+.mybutton.hover{
+	background: linear-gradient(to bottom, #68a54b 5%, #74ad5a 100%);
+	background-color: #68a54b;
+}
+
+.mybutton.active{
+	position: relative;
+	top: 1px;
+}
+
+#celeb{
+	font-size: 14px;
+	color: grey;
+	font-family: 'Helvetica neue',Helvetica,Arial,sans-serif;
+	font-weight: bold;
+}
+#footer{
+   font-family: 'Helvetica neue',Helvetica,Arial,sans-serif;
+      font-size: 12px;
+    position: relative;
+    z-index: 6;
+    top: 5px;
+    left: 193px;
+}
+
+#table1{
+	line-height: 20px
+	width:auto;
+
+}
+
+#tdpadding{
+	padding-left: 4px;
+}
